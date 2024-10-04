@@ -1,5 +1,5 @@
 # SSAFIT 관통 프로젝트 회고
-## DB 모델링
+## 05PJT - DB 모델링
 
 ### 작업 순서
 1. 기존 프로젝트 dto class 참고하여 DB table, cloumn 생성
